@@ -3,13 +3,12 @@ body {
     max-width: 60rem;
     margin: auto;
     background-color: #170a19;
-    font-family: 'Pacifico', cursive;
-    letter-spacing: 0.2rem;
+    font-family: 'Work Sans', sans-serif;
   }
   
   .pagetitle {
     padding-top: 5rem;
-    font-size: 4rem;
+    font-size: 3rem;
     color: #70416d;
   }
 
